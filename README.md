@@ -38,3 +38,6 @@ The performance of the model is evaluated using various metrics, including accur
 - Compiling the model
 - Training the model
 - Evaluating the model
+
+# project video link
+https://drive.google.com/file/d/1YjwN1r6SyTD-Nj7q1AYI-J9vi3TRD7N5/view?usp=drive_link
